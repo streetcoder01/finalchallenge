@@ -360,7 +360,7 @@ cat << 'EOF' | sudo tee /var/www/html/naruto.html > /dev/null
   <blockquote>“If you attack Konoha, I’ll have no choice… I’ll bear the burden of your hatred and die with you.”<br>— Naruto Uzumaki</blockquote>
 
   <h2>The Fourth Great Ninja War</h2>
-  <p>All villages unite. Naruto befriends Kurama and gains immense power. Madara and Obito appear. Naruto and Sasuke fight together.</p>
+  <p>All villages unite. revolutionary Naruto befriends Kurama and gains immense power. Madara and Obito appear. Naruto and Sasuke fight together.</p>
   <blockquote>“You’re no longer a demon fox… you’re my friend!”<br>— Naruto Uzumaki<br>“I always knew… you were my only friend.”<br>— Sasuke Uchiha</blockquote>
   <p>They battle Kaguya Ōtsutsuki and seal her away.</p>
 
